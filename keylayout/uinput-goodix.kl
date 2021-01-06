@@ -8,4 +8,13 @@
 # as published by the Free Software Foundation.
 #
 
+<<<<<<< HEAD
 key 96 SLEEP
+=======
+key 102  HOME VIRTUAL
+
+key 103  SYSTEM_NAVIGATION_UP
+key 105  SYSTEM_NAVIGATION_LEFT
+key 106  SYSTEM_NAVIGATION_RIGHT
+key 108  SYSTEM_NAVIGATION_DOWN
+>>>>>>> lineage-remote/lineage-17.1
